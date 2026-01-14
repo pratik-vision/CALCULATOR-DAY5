@@ -1,1 +1,5 @@
-CALCULATOR
+----[VARIABLES AND CONTITONAL STATEMENT]----
+                   |
+                   |
+                   |
+               {CALCULATOR}
